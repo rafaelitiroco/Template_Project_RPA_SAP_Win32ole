@@ -1,0 +1,5 @@
+dev:
+  caminho_sap_gui:  "C:\\Program Files (x86)\\SAP\\FrontEnd\\SAPgui\\saplogon.exe"
+  instancia_sap:    "SAP Embratel Testes"
+  usuario_sap:      "clazega"
+  senha_sap:        "Robo1234"
