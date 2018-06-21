@@ -1,4 +1,4 @@
-# RPA-Itau-Financeiras (Rascunho)
+# Template-Project-RPA-SAP-Win32ole (Apenas para usar de modelo)
 
 **Cliente**: Banco Itaú S/A
 **Projeto**: RPA Itau Financeiras
